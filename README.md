@@ -5,7 +5,7 @@
     <th style="border: 1px solid black;text-align:center;"><a href="https://arxiv.org/abs/2405.20947">Paper</a></th>
     <th style="border: 1px solid black;text-align:center;"><a href="https://huggingface.co/datasets/bench-llm/or-bench">Dataset</a></th>
     <th style="border: 1px solid black;text-align:center;"><a href="https://huggingface.co/spaces/bench-llm/or-bench">Demo</a></th>
-    <th style="border: 1px solid black;text-align:center;"><a href="https://or-bench.github.io/">Leaderboard</a></th>
+    <th style="border: 1px solid black;text-align:center;"><a href="https://huggingface.co/spaces/bench-llms/or-bench-leaderboard/">Leaderboard</a></th>
   </tr>
 </table>
 
